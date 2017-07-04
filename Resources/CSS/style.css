@@ -1,0 +1,82 @@
+.banner1
+{
+  background-image: url("../../Resources/Images/flatironBldg.png");
+  background-repeat: no-repeat;
+}
+
+h1
+{
+  color: white;
+  font-size: 70px;
+  font-weight:bold;
+  text-align: center;
+  font-family: Helvetica;
+
+}
+
+.banner2 a
+{
+  font-size: 18px;
+  color: white;
+  text-align: center;
+}
+.banner2
+{
+  text-align: center;
+}
+
+.banner3
+{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+}
+.banner4
+{
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  text-align: center;
+}
+.banner5
+{
+font-size: 14px;
+font-family: Helvetica;
+text-align: center;
+font-weight: normal;
+}
+.banner6
+{
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+  font-family: Helvetica;
+  text-align: center;
+  background-image: url("../../Resources/Images/flatironBldg.png");
+
+}
+.Icon
+{
+text-align: center;
+}
+
+.FinalBar
+{
+  color: white;
+  font-size: 10px;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footer a
+{
+color: white;
+font-weight: bold;
+font-size: 17px;
+}
+.copy
+{
+  font-size: 11px;
+  color: white;
+}
